@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vineshGitServer
+- 👋 Hi, I’m @triplepower
 - 👀  ML, Gen AI, Research Cryptography.
 - 💞️ I’m looking to collaborate on Business Intelligence & Data Science 
 - 📫 reach me vineshreddy116@gmail.com
